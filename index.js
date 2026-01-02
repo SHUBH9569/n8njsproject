@@ -1,4 +1,4 @@
-// index.js
+
 
 function addNumbers(a, b) {
   console.log("Adding numbers"); 
