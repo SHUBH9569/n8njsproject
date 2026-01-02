@@ -1,0 +1,19 @@
+{
+  "name": "n8njsproject",
+  "version": "1.0.0",
+  "description": "This is a minimal JavaScript project created to test an n8n workflow that validates\r GitHub pull requests against predefined coding guidelines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHUBH9569/n8njsproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHUBH9569/n8njsproject/issues"
+  },
+  "homepage": "https://github.com/SHUBH9569/n8njsproject#readme"
+}
