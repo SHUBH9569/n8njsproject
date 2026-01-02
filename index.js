@@ -2,6 +2,8 @@
 
 function addNumbers(a, b) {
   console.log("Adding numbers"); 
+  console.log("adding...");
+  
   return a + b;
 }
 
